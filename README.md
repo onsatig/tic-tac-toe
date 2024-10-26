@@ -1,3 +1,26 @@
+Gameplay Instructions : 
+
+-Choose to play against another player or the computer.
+
+-The first player to align three markers in a row (horizontally, vertically, or diagonally) wins the game.
+
+-A score history feature allows you to track past games and see details like opponent type (friend or computer) and previous moves.
+
+Features : 
+
+-Play against a friend or a computer opponent
+
+-Score tracking for past games
+
+-Stylish and responsive UI
+
+-Winner tracker to highlight the winner
+
+Technologies Used :
+React
+TypeScript
+CSS (Tailwind)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
